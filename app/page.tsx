@@ -112,7 +112,7 @@ export default function Home() {
                 title: "Subject Matter Expert",
                 company: "PESU IO",
                 location: "Bengaluru, India",
-                date: "October 2024 – Novembor 2024",
+                date: "October 2024 – November 2024",
                 description: "Teaching a course RAGs to Rich AIs: Build Smart LLMs and Agents. Providing hands-on projects and implementation-based learning on the fundamentals to advanced concepts of RAG and Agentic AI."
               }
             ].map((job, index) => (
